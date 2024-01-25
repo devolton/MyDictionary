@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++\MyDictionary\MyDictionary\Dictionary.h(222): warning C4715: Dictionary<int,int>::Find: значение возвращается не при всех путях выполнения
+  MyDictionary.vcxproj -> D:\C++\MyDictionary\x64\Debug\MyDictionary.exe
